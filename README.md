@@ -1,4 +1,4 @@
-# QlikSenseQRSAPI-Import-Image-into-Content-Libary
+# QlikSenseQRSAPI-Import-Image-into-Content-Library
 Script to import an image into Content Library
 
 # ReadMe
