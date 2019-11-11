@@ -7,10 +7,10 @@ Script to import an image into Content Library
 - Content Library needs to be created in QMC prior before running this script
 
 # Instruction
-1.Download QRS_ImportImage.p1 onto Qlik Sense Central node
-2.Follow each bullets stated in ReadMe3. 
-3.Open Windows Powershell and move to the folder where you saved QRS_ExportApp.ps1 on Powershell Console
-4.Run .\QRS_ImportImage.ps1
+1. Download QRS_ImportImage.p1 onto Qlik Sense Central node
+2. Follow each bullets stated in ReadMe
+3. Open Windows Powershell and move to the folder where you saved QRS_ExportApp.ps1 on Powershell Console
+4. Run .\QRS_ImportImage.ps1
 
 # Requirement
 Qlik Sense
