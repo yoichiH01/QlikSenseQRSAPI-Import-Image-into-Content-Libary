@@ -2,9 +2,9 @@
 Script to import an image into Content Library
 
 # ReadMe
-- The script works on Qlik Sense Central node 
-- You may need to change UserDirecotry, UserId, ContentType, SourceImagePath, LibraryName and ExternalPath in the script to fit to your environment
-- Content Library needs to be created in QMC prior before running this script
+- Please run this script on Qlik Sense Central node
+- Please change UserDirecotry, UserId, ContentType, SourceImagePath, LibraryName and ExternalPath in the script based on your environment
+- Pleae create Content Library in QMC before running this script
 
 # Instruction
 1. Download QRS_ImportImage.p1 onto Qlik Sense Central node
